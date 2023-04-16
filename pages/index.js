@@ -132,7 +132,7 @@ export default function Home() {
                   letterSpacing={"0.06rem"}
                   lineHeight={"1.7em"}
                 >
-                慶應義塾大学院理工学研究科基礎理工学専攻物理情報専修修士2年、山本研究室.
+                慶應義塾大学院理工学研究科基礎理工学専攻物理情報専修修士2年、山本研究室.専門は量子コンピューティング.
                   </Text>
               </Box>
               <Image
